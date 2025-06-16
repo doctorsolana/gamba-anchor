@@ -20,7 +20,7 @@
     "@solana/spl-token": "^0.3.8",
     "@solana/web3.js": "^1.98.0",
     "gamba-core-v2": "workspace:*",
-    "swr": "^2.2.4",
+    "swr": "^2.3.3",
     "zustand": "^4.4.3"
   },
   "devDependencies": {
